@@ -14,6 +14,6 @@
 
 
 <center><p align = "center"> :star::star::star: </p> </center>
-<center><p align = "center"> dev envitronment </p> </center>
-<center><p align = "center"> :earth_asia: Intelij / VScode</p></center>
+<center><p align = "center"> **dev envitronment** </p> </center>
+<center><p align = "center"> :earth_asia: Intelij Idea / VScode</p></center>
 <center><p align = "center"> :star::star::star: </p> </center>
